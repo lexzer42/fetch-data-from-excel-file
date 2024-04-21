@@ -8,10 +8,6 @@ This project allows you to fetch data from an Excel file and display it in a Rea
 
 Follow these steps to set up the project:
 
-# React Excel File Data Fetcher
-
-This project allows you to fetch data from an Excel file and display it in a React component.
-
 ## Installation
 
 1. Clone the repository:
