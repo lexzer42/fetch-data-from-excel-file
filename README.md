@@ -1,3 +1,5 @@
+![image](https://github.com/lexzer42/fetch-data-from-excel-file/assets/134535937/cdb1bc52-1330-446b-92b1-b0c1eac7367e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
