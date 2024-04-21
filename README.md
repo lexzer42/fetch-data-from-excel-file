@@ -8,6 +8,27 @@ This project allows you to fetch data from an Excel file and display it in a Rea
 
 Follow these steps to set up the project:
 
+# React Excel File Data Fetcher
+
+This project allows you to fetch data from an Excel file and display it in a React component.
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/your-repository.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd your-repository
+   ```
+
+3. Install dependencies:
+   ```
+   npm install
+   ```
+
 1. Install the required dependencies using npm or yarn:
    ```
    npm install xlsx
